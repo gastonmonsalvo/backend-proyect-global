@@ -1,0 +1,723 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "year": 1813,
+    "condition": "poor",
+    "location": "Depósito",
+    "tags": [
+      "ensayo",
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "year": 1949,
+    "condition": "poor",
+    "location": "Lectura",
+    "tags": [
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "9780140449136",
+    "year": 1866,
+    "condition": "poor",
+    "location": "Depósito",
+    "tags": [
+      "ensayo",
+      "adventure",
+      "classic"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "isbn": "9780060883287",
+    "year": 1967,
+    "condition": "poor",
+    "location": "Depósito",
+    "tags": [
+      "modernism"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "year": 1925,
+    "condition": "new",
+    "location": "Lectura",
+    "tags": [
+      "filosofía",
+      "modernism"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "isbn": "9780199535675",
+    "year": 1922,
+    "condition": "fair",
+    "location": "Sala B",
+    "tags": [
+      "filosofía",
+      "modernism",
+      "ensayo"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "isbn": "9780679723165",
+    "year": 1955,
+    "condition": "good",
+    "location": "Sala A",
+    "tags": [
+      "adventure",
+      "classic",
+      "ensayo"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "9780060850524",
+    "year": 1932,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "fantasía",
+      "historia",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "year": 1951,
+    "condition": "fair",
+    "location": "Depósito",
+    "tags": [
+      "romance",
+      "historia",
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "isbn": "9780143035008",
+    "year": 1877,
+    "condition": "good",
+    "location": "Depósito",
+    "tags": [
+      "dystopia",
+      "ensayo",
+      "historia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "isbn": "9780141441146",
+    "year": 1847,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "fantasía",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "isbn": "9780141439556",
+    "year": 1847,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "isbn": "9780060934347",
+    "year": 1605,
+    "condition": "poor",
+    "location": "Depósito",
+    "tags": [
+      "romance"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "isbn": "9780142408766",
+    "year": 1868,
+    "condition": "new",
+    "location": "Depósito",
+    "tags": [
+      "novela",
+      "drama",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227",
+    "year": 1937,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "fantasía",
+      "novela",
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780544003415",
+    "year": 1954,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "dystopia",
+      "fantasía",
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9780142437247",
+    "year": 1851,
+    "condition": "new",
+    "location": "Lectura",
+    "tags": [
+      "ensayo",
+      "romance",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "isbn": "9780143131847",
+    "year": 1818,
+    "condition": "good",
+    "location": "Sala A",
+    "tags": [
+      "ensayo"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "isbn": "9780679732761",
+    "year": 1952,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "year": 1960,
+    "condition": "good",
+    "location": "Lectura",
+    "tags": [
+      "fantasía",
+      "dystopia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "isbn": "9781400033416",
+    "year": 1987,
+    "condition": "poor",
+    "location": "Sala B",
+    "tags": [
+      "adventure",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "9780374528379",
+    "year": 1880,
+    "condition": "poor",
+    "location": "Lectura",
+    "tags": [
+      "classic",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "isbn": "9780199232765",
+    "year": 1869,
+    "condition": "good",
+    "location": "Lectura",
+    "tags": [
+      "filosofía",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "isbn": "9780140449129",
+    "year": 1856,
+    "condition": "new",
+    "location": "Depósito",
+    "tags": [
+      "adventure",
+      "fantasía",
+      "classic"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "isbn": "9780141439563",
+    "year": 1861,
+    "condition": "poor",
+    "location": "Depósito",
+    "tags": [
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "isbn": "9780141439600",
+    "year": 1859,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "filosofía",
+      "modernism",
+      "classic"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "isbn": "9780140439441",
+    "year": 1850,
+    "condition": "new",
+    "location": "Depósito",
+    "tags": [
+      "historia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn": "9780486411095",
+    "year": 1897,
+    "condition": "good",
+    "location": "Sala A",
+    "tags": [
+      "filosofía",
+      "modernism",
+      "adventure"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "isbn": "9781451673319",
+    "year": 1953,
+    "condition": "good",
+    "location": "Depósito",
+    "tags": [
+      "modernism"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "isbn": "9780140268867",
+    "year": -800,
+    "condition": "new",
+    "location": "Depósito",
+    "tags": [
+      "historia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "isbn": "9780140275360",
+    "year": -750,
+    "condition": "fair",
+    "location": "Sala B",
+    "tags": [
+      "adventure"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "isbn": "9780142437223",
+    "year": 1320,
+    "condition": "new",
+    "location": "Sala B",
+    "tags": [
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "isbn": "9780140449327",
+    "year": -19,
+    "condition": "good",
+    "location": "Depósito",
+    "tags": [
+      "historia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "isbn": "9780140424393",
+    "year": 1667,
+    "condition": "fair",
+    "location": "Sala A",
+    "tags": [
+      "romance"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "isbn": "9780684801223",
+    "year": 1952,
+    "condition": "new",
+    "location": "Sala A",
+    "tags": [
+      "drama",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "isbn": "9781451626650",
+    "year": 1961,
+    "condition": "new",
+    "location": "Lectura",
+    "tags": [
+      "filosofía",
+      "modernism",
+      "classic"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "isbn": "9780385333849",
+    "year": 1969,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "classic",
+      "adventure",
+      "drama"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "isbn": "9780679732242",
+    "year": 1929,
+    "condition": "poor",
+    "location": "Lectura",
+    "tags": [
+      "novela",
+      "drama",
+      "modernism"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "isbn": "9780140177398",
+    "year": 1937,
+    "condition": "new",
+    "location": "Sala A",
+    "tags": [
+      "modernism",
+      "historia"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "isbn": "9780142000656",
+    "year": 1952,
+    "condition": "new",
+    "location": "Sala B",
+    "tags": [
+      "modernism",
+      "adventure"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "isbn": "9780143039433",
+    "year": 1939,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "dystopia",
+      "ensayo",
+      "drama"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "isbn": "9780451419439",
+    "year": 1862,
+    "condition": "poor",
+    "location": "Sala A",
+    "tags": [
+      "novela",
+      "dystopia",
+      "filosofía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Hunchback of Notre-Dame",
+    "author": "Victor Hugo",
+    "isbn": "9780140443530",
+    "year": 1831,
+    "condition": "poor",
+    "location": "Lectura",
+    "tags": [
+      "romance"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "isbn": "9780679720201",
+    "year": 1942,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "romance",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "isbn": "9780679720218",
+    "year": 1947,
+    "condition": "fair",
+    "location": "Lectura",
+    "tags": [
+      "adventure",
+      "ensayo"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "isbn": "9780553213690",
+    "year": 1915,
+    "condition": "fair",
+    "location": "Sala B",
+    "tags": [
+      "drama",
+      "novela",
+      "modernism"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "isbn": "9780812969641",
+    "year": 1913,
+    "condition": "new",
+    "location": "Sala A",
+    "tags": [
+      "novela",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "isbn": "9780805209990",
+    "year": 1925,
+    "condition": "good",
+    "location": "Sala A",
+    "tags": [
+      "dystopia",
+      "adventure",
+      "fantasía"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "James Joyce",
+    "isbn": "9780142437346",
+    "year": 1916,
+    "condition": "new",
+    "location": "Lectura",
+    "tags": [
+      "adventure",
+      "romance"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "isbn": "9780743297332",
+    "year": 1926,
+    "condition": "new",
+    "location": "Depósito",
+    "tags": [
+      "ensayo",
+      "fantasía",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "isbn": "9781451635621",
+    "year": 1936,
+    "condition": "good",
+    "location": "Sala B",
+    "tags": [
+      "drama",
+      "filosofía",
+      "novela"
+    ],
+    "isLoaned": false,
+    "loanHistory": []
+  }
+]
