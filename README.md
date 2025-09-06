@@ -193,7 +193,7 @@ Crear libro
 ```
 POST /api/books
 Content-Type: application/json
-```
+
 ```json
   
 {
