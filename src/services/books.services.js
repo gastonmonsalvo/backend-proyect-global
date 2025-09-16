@@ -212,7 +212,7 @@ const returnBookService = async (id) => {
   try {
     const book = await Book.findById(id);
     if (!book) return fail("Libro no encontrado", 404);
-    if (!book.isLoaned) return fail("Libro no prestado", 409); // 👈 mensaje uniforme
+    if (!book.isLoaned) return fail("Libro no prestado", 409);
 
     const closed = book.currentLoan
       ? {
