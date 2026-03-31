@@ -1,12 +1,12 @@
 
-# 📚 Proyecto Integrador – Biblioteca con API Externa
+# Proyecto Integrador – Biblioteca con API Externa
 
 Sistema de gestión de libros con Node.js, Express y MongoDB.  
 Permite registrar libros, gestionar préstamos y devoluciones, y consultar información de Google Books mediante una API externa.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Node.js** + **Express** – servidor backend.
 - **MongoDB Atlas** – base de datos en la nube.
 - **Mongoose** – modelado de datos.
@@ -16,7 +16,7 @@ Permite registrar libros, gestionar préstamos y devoluciones, y consultar infor
 
 ---
 
-## ⚙️ Instalación y configuración
+## Instalación y configuración
 
 ### 1. Clonar el repositorio
 ```bash
@@ -55,7 +55,7 @@ Servidor corriendo en:
 
 ---
 
-## 🗂 Estructura de carpetas
+## Estructura de carpetas
 
 ```
 src/
@@ -96,7 +96,7 @@ src/
 
 ```
 
-## 📖 Endpoints principales
+## Endpoints principales
 
 ### Libros (MongoId y ISBN)
 | Método    | Endpoint                 | Descripción                       |
@@ -132,7 +132,7 @@ Búsqueda Unificada de Libros
 Este proyecto implementa una API REST para la gestión de una base de datos de libros, integrada con **Google Books**.  
 El endpoint `/api/books/search` permite realizar búsquedas inteligentes, combinando resultados externos con datos locales y aplicando filtros flexibles.
 
-## 🌟 Funcionalidades principales
+## Funcionalidades principales
 
 - **Búsqueda flexible**:
   - Por palabras clave (`q`)
@@ -153,7 +153,7 @@ El endpoint `/api/books/search` permite realizar búsquedas inteligentes, combin
 
 ---
 
-## 🛠️ Endpoint principal
+## Endpoint principal
 
 ### `GET /api/books/search`
 
@@ -176,7 +176,7 @@ Endpoint unificado para buscar libros, consultar Google Books y cruzar con tu ba
 
 ---
 
-## 📥 Ejemplos de uso
+## Ejemplos de uso
 
 ### 1. Búsqueda por palabras clave
 Busca 25 libros (default) en Google Books relacionados con "clean architecture".
@@ -271,7 +271,7 @@ POST /api/books/isbn/9780132350884/return
 
 ---
 
-## 🧾 Validaciones
+## Validaciones
 
 **Errores de validación** devuelven este formato:
 ```json
@@ -292,7 +292,7 @@ POST /api/books/isbn/9780132350884/return
 
 ---
 
-## 🧹 Prácticas aplicadas
+## Prácticas aplicadas
 - Arquitectura limpia separando **controllers**, **services**, **routers**, **validators** y **utils**.
 - `respond.js` para respuestas uniformes.
 - Los **services no dependen de Express**, retornan objetos planos (`{ statusCode, data|message }`).
@@ -301,6 +301,6 @@ POST /api/books/isbn/9780132350884/return
 
 ---
 
-## 👥 Autor
+## Autor
 **Gaston Monsalvo**  
 Proyecto Integrador - Global Academy - 2025
