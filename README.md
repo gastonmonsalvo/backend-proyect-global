@@ -43,7 +43,7 @@ GOOGLE_BOOKS_API=
 
     books.seed.json
 
-> ⚠️ **MONGO_URI** debe apuntar a tu instancia de **MongoDB Atlas**.
+
 
 ### 4. Levantar el servidor
 ```bash
